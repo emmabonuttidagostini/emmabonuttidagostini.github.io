@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emma Bonutti D'Agostini
+title: Emma Bonutti D’Agostini
 ---
 
 <div style="height: 70px;"></div>

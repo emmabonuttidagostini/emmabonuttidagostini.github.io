@@ -1,0 +1,24 @@
+title: Researcher
+url: "https://emmabouttidagostini.github.io"
+baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://emmabouttidagostini.github.io"
+footer_text: "Emma Bonutti D'Agostini, PhD Candidate in Sociology"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "CV"
+   link: "BONUTTI D'AGOSTINI-CV-2025.07.pdf"
+ - name: "Contact"
+   link: "contact"

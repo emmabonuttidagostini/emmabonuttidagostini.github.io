@@ -15,10 +15,11 @@ France
 
 ## Email
 
-[emma.bonutti@sciencespo.fr](mailto:emma.bonutti@sciencespo.fr)
+📩 [emma.bonutti@sciencespo.fr](mailto:emma.bonutti@sciencespo.fr)
 
 
 ## Social
+
 🦋 [BlueSky](https://bsky.app/profile/emmabonutti.bsky.social)
 
 📝 [LinkedIn](https://www.linkedin.com/in/emma-bonutti-d-agostini-2b8026231)

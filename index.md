@@ -28,7 +28,7 @@ Check out my [Publications](https://emmabonuttidagostini.github.io/publications)
 📚 I will soon attend [IC2S2 2025](https://www.ic2s2-2025.org) in Sweden, and present a cool method to automatically extract quotes from newspaper content.
 
 
-## Other things
+## Other Things
 
 I spend an embarassing amount of time reading. I have a soft spot for family sagas, magical realism novels, historical and political fiction, introspective and psychological stories. If you are ever in need of book recommendations (or just curious about what I've been hoarding), feel free to take a look [here](https://www.goodreads.com/user/show/159351686-emma-bonutti).
 

@@ -18,6 +18,8 @@ sass:
 nav:
  - name: "Publications"
    link: "/publications"
+ - name: "Working Projects"
+   link: "/projects"
  - name: "CV"
    link: "BONUTTI D'AGOSTINI-CV-2025.07.pdf"
  - name: "Teaching"

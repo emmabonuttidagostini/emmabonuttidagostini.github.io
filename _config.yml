@@ -28,3 +28,6 @@ nav:
    link: "/resources"
  - name: "Contact"
    link: "/contact"
+
+plugins:
+  - jekyll-sitemap

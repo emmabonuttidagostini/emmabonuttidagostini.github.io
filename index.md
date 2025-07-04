@@ -13,7 +13,7 @@ My research focuses on sociology of journalism and political sociology. Througho
 
 Previously, I completed a Research Master in Sociology from Sciences Po Paris, a Bachelor Degree in Political Sciences at Sant'Anna School of Advanced Studies and University of Pisa, and a Bachelor Degree in Classical Piano at the Conservatory of Udine (why not).
 
-## Research Interest
+## Research Interests
 
 In my research, I study the mainstreaming of far-right voices in French and Italian legacy media. This brings me to reflect about:
 * journalists' role conceptions, professional deontology, and practices

@@ -1,6 +1,9 @@
-input 
+---
+layout: default
+title: 
+---
 
-div
+<div style="height: 70px;"></div>
 
 During the first two years of my PhD, I have discovered that I truly enjoy teaching. Here is a list of the courses I have thaught so far:
 

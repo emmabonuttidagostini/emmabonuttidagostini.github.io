@@ -31,4 +31,4 @@ In my research, I study the mainstreaming of far-right voices in French and Ital
 
 ## Other things
 
-I spend a large part of my life [reading](https://www.goodreads.com/user/show/159351686-emma-bonutti).
+I spend an embarassing amount of time reading, and I have a soft spot for family sagas, magical realism novels, historical and political fiction, introspective and psychological stories. If you are ever in need of book recommendations (or just curious about what I've been hoarding), feel free to take a look [here](https://www.goodreads.com/user/show/159351686-emma-bonutti).

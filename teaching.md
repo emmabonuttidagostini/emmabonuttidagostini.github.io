@@ -48,6 +48,8 @@ Weekly seminars on a diverse selection of sociological traditions and areas of r
 
 Weekly seminars on topics from digital sociology, STS, communication studies; syllabus definition; group-work supervision and grading; final essays grading. 
 
+<div style="height: 70px;"></div>
+
 
 
 

@@ -1,43 +1,27 @@
 ---
-layout: default
+layout: home
+title: Emma Bonutti D'Agostini
 ---
 
-## About Me
+#<img class="profile-picture" src="BONUTTI_Emma.jpg">
 
-<img class="profile-picture" src="BONUTTI_Emma.jpg">
+I'm Emma Bonutti D'Agostini, PhD Candidate in Sociology at CREST (Institut Polytechnique de Paris) and médialab (Sciences Po Paris). Welcome to my personal website!
+I have the chance of working alongside inspiring people - such as my supervisors, [Etienne Ollion](https://ollion.cnrs.fr) (CREST) and [Sylvain Parasie](https://sylvainparasie.org) (médialab).
+My research focuses on sociology of journalism and political sociology. Throughout my work, I like to borrow from the toolbox of CSS and of qualitative sociology. 
 
-Hi! I am a PhD Candidate in Sociology at CREST, Institut Polytechnique de Paris, and médialab, Sciences Po Paris. 
+Previously, I completed a Research Master in Sociology from Sciences Po Paris, a Bachelor Degree in Political Sciences at Sant'Anna School of Advanced Studies and University of Pisa, and a Bachelor Degree in Classical Piano at the Conservatory of Udine (why not).
 
 ## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
+## News
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+🌟 My first academic paper is forthcoming on *[Journalism](https://journals.sagepub.com/home/jou)*!
+🌆 I have received an Alliance Doctoral Mobility Grant to visit Columbia University in the Spring semester 2026.
+📚 I will soon attend [IC2S2 2025](https://www.ic2s2-2025.org) in Sweden, and present a cool method to automatically extract quotes from newspaper content.
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Other things
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+I spend a large part of my life [reading](https://www.goodreads.com/user/show/159351686-emma-bonutti).

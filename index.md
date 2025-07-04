@@ -3,6 +3,13 @@ layout: default
 title: Emma Bonutti D'Agostini
 ---
 
+
+
+
+
+
+
+
 I'm Emma Bonutti D'Agostini, PhD Candidate in Sociology at [CREST](https://crest.science) (Institut Polytechnique de Paris) and [médialab](https://medialab.sciencespo.fr) (Sciences Po Paris). Welcome to my personal website!
 
 I have the chance of working alongside inspiring people - such as my supervisors, [Etienne Ollion](https://ollion.cnrs.fr) (CREST) and [Sylvain Parasie](https://sylvainparasie.org) (médialab).

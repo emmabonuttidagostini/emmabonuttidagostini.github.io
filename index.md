@@ -3,7 +3,9 @@ layout: default
 title: Emma Bonutti D'Agostini
 ---
 
-<img class="profile-picture" src="BONUTTI_Emma.jpg">
+/*
+ * <img class="profile-picture" src="BONUTTI_Emma.jpg">
+ */
 
 I'm Emma Bonutti D'Agostini, PhD Candidate in Sociology at [CREST](https://crest.science) (Institut Polytechnique de Paris) and [médialab](https://medialab.sciencespo.fr) (Sciences Po Paris). Welcome to my personal website!
 

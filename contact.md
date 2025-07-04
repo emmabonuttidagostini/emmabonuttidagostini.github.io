@@ -20,7 +20,7 @@ France
 
 ## Social
 1. [BlueSky](https://bsky.app/profile/emmabonutti.bsky.social)
-2. [LinkedIn](www.linkedin.com/in/emma-bonutti-d-agostini-2b8026231)
+2. [LinkedIn](https://www.linkedin.com/in/emma-bonutti-d-agostini-2b8026231)
 
 
 <div style="height: 70px;"></div>

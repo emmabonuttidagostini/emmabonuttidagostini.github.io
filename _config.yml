@@ -16,13 +16,13 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/"
  - name: "Publications"
    link: "/publications"
- - name: "Teaching"
-   link: "/teaching"
  - name: "CV"
    link: "BONUTTI D'AGOSTINI-CV-2025.07.pdf"
+ - name: "Teaching"
+   link: "/teaching"
+ - name: "Resources"
+   link: "/resources"
  - name: "Contact"
    link: "/contact"

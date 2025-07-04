@@ -3,6 +3,8 @@ layout: default
 title: 
 ---
 
+<div style="height: 70px;"></div>
+
 ## Quote Erat Detectendum (Q.E.D.)
 
 With Etienne Ollion and Guilhem Sicard, I have developed a ML pipeline to automatically extract quotes from French newspaper content, leveraging sequence labeling and seq-2-seq models. 

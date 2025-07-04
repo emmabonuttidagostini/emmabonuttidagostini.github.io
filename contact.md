@@ -13,9 +13,10 @@ Emma Bonutti D'Agostini
 
 France
 
+## Email
+
 [emma.bonutti@sciencespo.fr](mailto:emma.bonutti@sciencespo.fr)
 
-<div style="height: 30px;"></div>
 
 ## Social
 1. [BlueSky](https://bsky.app/profile/emmabonutti.bsky.social)

@@ -13,6 +13,6 @@ title:
 
 ## Book reviews
 
-* **Bonutti D’Agostini, E.** “Compte rendu. Un journalisme en ligne mondialisé : socio-histoire comparative. Par Florence Le Cam et Fábio Henrique Pereira.” Forthcoming in *Réseaux*.
+* **Bonutti D’Agostini, E.** “Compte rendu. Un journalisme en ligne mondialisé : socio-histoire comparative. Par Florence Le Cam et Fábio Henrique Pereira”, Forthcoming in *Réseaux*.
 
 <div style="height: 70px;"></div>

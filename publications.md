@@ -7,7 +7,7 @@ title:
 
 ## Academic papers
 
-* **Bonutti D’Agostini, E.** “Tailgater, Mouthpiece, or Magnifying glass? Italian Political Journalism in the Face of Populist Radical Right News Politicization”, Forthcoming in *Journalism*.
+* **Bonutti D’Agostini, E.** “Tailgater, Mouthpiece, or Magnifying glass? Italian Political Journalism in the Face of Populist Radical Right News Politicization”, Forthcoming in *Journalism*. Pre-print available [here](https://hal.science/hal-05153205).
 
 
 

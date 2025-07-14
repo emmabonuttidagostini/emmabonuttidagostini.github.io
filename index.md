@@ -7,7 +7,7 @@ title: Emma Bonutti D’Agostini
 
 I'm Emma Bonutti D'Agostini, PhD Candidate in Sociology at [CREST](https://crest.science) (Institut Polytechnique de Paris) and [médialab](https://medialab.sciencespo.fr) (Sciences Po Paris). Welcome to my personal website!
 
-My research lies at the intersection of sociology of journalism and political sociology. In my doctoral dissertation, I study the mainstreaming of far-right voices in French and Italian legacy media, borrowing tools from CSS and NLP and combining them with qualitative sociological methodologies.
+My research lies at the intersection of sociology of journalism and political sociology. In my doctoral dissertation, I study how French and Italian legacy media give visibility and legitimacy to political voices, borrowing tools from CSS and NLP and combining them with qualitative sociological methodologies.
 
 I have the chance of working alongside inspiring people - such as my supervisors, [Etienne Ollion](https://ollion.cnrs.fr) (CREST) and [Sylvain Parasie](https://sylvainparasie.org) (médialab).
 
@@ -15,7 +15,7 @@ Previously, I completed a Research Master in Sociology at [Sciences Po Paris](ht
 
 ## Research Interests
 
-My work is interdisciplinary, and I frequently collaborate with researchers in political science and computer science. Cross-cutting themes in my work include journalistic deontologies and practices; populist radical right politics; political communcation in hybrid media systems. Throughout my research, I also reflect about how we can leverage CSS to shed new light on classic sociological questions.
+My work is interdisciplinary, and I frequently collaborate with researchers in political science and computer science. Cross-cutting themes in my work include journalistic deontologies and practices; right-wing politics; political communcation in hybrid media systems. Throughout my research, I also reflect about how we can leverage CSS to shed new light on classic sociological questions.
 
 Check out my [Publications](https://emmabonuttidagostini.github.io/publications) and [Working Projects](https://emmabonuttidagostini.github.io/projects) for more details. 
 

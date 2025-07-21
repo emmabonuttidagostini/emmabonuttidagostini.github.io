@@ -12,9 +12,9 @@ We are currently writing up a paper documenting this methodology, preparing a Gi
 We will present this method at IC2S2 2025 in Sweden in July 2025. Stay tuned for more updates!
 
 
-## Giving a Voice to the Far Right
+## Giving Politicians a Voice
 
-In my dissertation, I explore the mainstreaming of far-right voices in French and Italian legacy media looking at how journalists quote politicians' statements in their articles. 
+In my dissertation, I explore the circulation and mainstreaming of political discourse in French and Italian legacy media looking at how journalists quote politicians' statements in their articles. 
 I am currently working on a paper where I explore to what extent we can explain quote volume trends observed in French national newspapers for different party families as a function of these parties' electoral trajectories and presence in French political institutions. 
 Stay tuned for more updates!
 

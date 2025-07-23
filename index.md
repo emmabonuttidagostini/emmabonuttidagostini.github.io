@@ -21,7 +21,7 @@ Check out my [Publications](https://emmabonuttidagostini.github.io/publications)
 
 ## News
 
-🌟 My first academic paper is forthcoming on *[Journalism](https://journals.sagepub.com/home/jou)* !
+🌟 My first academic paper has been published on *[Journalism]([https://journals.sagepub.com/home/jou](https://journals.sagepub.com/doi/10.1177/14648849251361076))* !
 
 🌆 I have been awarded an [Alliance Doctoral Mobility Grant](https://alliance.columbia.edu/alliance-call-doctoral-mobility) to visit Columbia University (NY) in the Spring Semester 2026.
 

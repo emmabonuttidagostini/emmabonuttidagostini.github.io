@@ -25,7 +25,7 @@ Check out my [Publications](https://emmabonuttidagostini.github.io/publications)
 
 🌆 I have been awarded an [Alliance Doctoral Mobility Grant](https://alliance.columbia.edu/alliance-call-doctoral-mobility) to visit Columbia University (NY) in the Spring Semester 2026.
 
-📚 I will soon attend [IC2S2 2025](https://www.ic2s2-2025.org) in Sweden, and present a cool method to automatically extract quotes from newspaper content.
+📚 I have recently attended [IC2S2 2025](https://www.ic2s2-2025.org) in Sweden, and presented a cool method to automatically extract quotes from newspaper content.
 
 
 ## Other Things

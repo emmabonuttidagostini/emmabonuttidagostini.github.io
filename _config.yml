@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://emmabouttidagostini.github.io"
-footer_text: "Emma Bonutti D'Agostini, PhD Candidate in Sociology<br>Last update: September 2025."
+footer_text: "Emma Bonutti D'Agostini, PhD Candidate in Sociology<br>Last update: October 2025."
 
 sass:
     style: compressed
@@ -21,7 +21,7 @@ nav:
  - name: "Working Projects"
    link: "/projects"
  - name: "CV"
-   link: "BONUTTI D'AGOSTINI-CV-2025.09.pdf"
+   link: "BONUTTI D'AGOSTINI-CV-2025.10.pdf"
  - name: "Teaching"
    link: "/teaching"
  - name: "Resources"

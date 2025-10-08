@@ -21,11 +21,11 @@ Check out my [Publications](https://emmabonuttidagostini.github.io/publications)
 
 ## News
 
+📚 If you read French, you can check out my review of the book *"Un journalisme en ligne mondialisé : socio-histoire comparative"* by Florence Le Cam and Fábio Henrique Pereira, on the new issue of *[Réseaux](https://shs.cairn.info/revue-reseaux-2025-4-page-435?lang=fr)*.
+
 🌟 My first academic paper has been published on *[Journalism]([https://journals.sagepub.com/home/jou](https://journals.sagepub.com/doi/10.1177/14648849251361076))* !
 
 🌆 I have been awarded an [Alliance Doctoral Mobility Grant](https://alliance.columbia.edu/alliance-call-doctoral-mobility) to visit Columbia University (NY) in the Spring Semester 2026.
-
-📚 I have recently attended [IC2S2 2025](https://www.ic2s2-2025.org) in Sweden, and presented a cool method to automatically extract quotes from newspaper content.
 
 
 ## Other Things

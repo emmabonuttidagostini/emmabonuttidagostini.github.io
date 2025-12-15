@@ -5,11 +5,10 @@ title:
 
 <div style="height: 70px;"></div>
 
-## Quote Erat Detectendum (Q.E.D.)
+## Quote Erat Detectendum (Q.E.D.). A Computational Analysis of Reported Speech in News Media.
 
-With Etienne Ollion and Guilhem Sicard, I have developed a ML pipeline to automatically extract quotes from French newspaper content, leveraging sequence labeling and seq-2-seq models. 
-We are currently writing up a paper documenting this methodology, preparing a GitHub repository, and adapting our workflow to English. 
-We will present this method at IC2S2 2025 in Sweden in July 2025. Stay tuned for more updates!
+With Etienne Ollion and Guilhem Sicard, I have developed a ML pipeline to automatically extract quotes from French newspaper content, leveraging sequence labeling and seq-2-seq models. We have also developed an English version of the model. 
+We have presented this method at IC2S2 2025 in Sweden in July 2025. We are currently finalizing a paper documenting this methodology and preparing a GitHub repository. Stay tuned for more updates!
 
 
 ## Mediated Voices

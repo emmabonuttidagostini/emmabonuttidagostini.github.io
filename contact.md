@@ -27,7 +27,7 @@ France
 
 ## Academic
 
-🎓 [Google Scholar](https://scholar.google.com/citations?user=I_1wLVkAAAAJ&hl=it&oi=ao).
+🎓 [Google Scholar](https://scholar.google.com/citations?user=I_1wLVkAAAAJ&hl=it&oi=ao)
 
 
 <div style="height: 70px;"></div>

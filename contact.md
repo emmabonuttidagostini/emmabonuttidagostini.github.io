@@ -25,4 +25,9 @@ France
 📝 [LinkedIn](https://www.linkedin.com/in/emma-bonutti-d-agostini-2b8026231)
 
 
+## Academic
+
+🎓 [Google Scholar](https://scholar.google.com/citations?user=I_1wLVkAAAAJ&hl=it&oi=ao).
+
+
 <div style="height: 70px;"></div>

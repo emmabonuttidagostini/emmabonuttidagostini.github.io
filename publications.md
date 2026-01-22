@@ -17,3 +17,7 @@ title:
 
 
 <div style="height: 70px;"></div>
+
+🎓 You can also find me on [Google Scholar](https://scholar.google.com/citations?user=I_1wLVkAAAAJ&hl=it&oi=ao).
+
+<div style="height: 70px;"></div>

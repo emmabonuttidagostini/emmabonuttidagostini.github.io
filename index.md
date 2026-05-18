@@ -21,7 +21,7 @@ Check out my [Publications](https://emmabonuttidagostini.github.io/publications)
 
 ## News
 
-🌆 I have just started a 4-month visiting at the Incite Institute, Columbia University, as an [Alliance International Exchange Scholar](https://alliance.columbia.edu/alliance-call-doctoral-mobility). If you are in New York City, I'd love to get in touch!
+🌆 I have just completed a research stay at the Incite Institute, Columbia University, as an [Alliance International Exchange Scholar](https://alliance.columbia.edu/alliance-call-doctoral-mobility). Thanks to Peter Bearman, to the Alliance team, and to the Incite community for this wonderful experience!
 
 📚 If you read French, you can check out my review of the book *"Un journalisme en ligne mondialisé : socio-histoire comparative"* by Florence Le Cam and Fábio Henrique Pereira, on the new issue of *[Réseaux](https://shs.cairn.info/revue-reseaux-2025-4-page-435?lang=fr)*.
 

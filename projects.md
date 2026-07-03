@@ -5,16 +5,14 @@ title:
 
 <div style="height: 70px;"></div>
 
-## Quote Erat Detectendum (Q.E.D.). A Computational Analysis of Reported Speech in News Media.
+## Quote Erat Detectendum (Q.E.D.). Scalable Extraction of Reported Speech in News Media.
 
-With Etienne Ollion and Guilhem Sicard, I have developed a ML pipeline to automatically extract quotes from French newspaper content, leveraging sequence labeling and seq-2-seq models. We have also developed an English version of the model. 
-We have presented this method at IC2S2 2025 in Sweden in July 2025. We are currently finalizing a paper documenting this methodology and preparing a GitHub repository. Stay tuned for more updates!
+With Etienne Ollion and Guilhem Sicard, I have developed an original methodology that leverages supervised machine learning and BERT models to automatically extract quotes – i.e., reported speech triplets composed of a source, a cue verb, and a statement – from large-scale French and English news corpora. 
+We have presented QED in several occasions, and we are currently finalizing a paper documenting this methodology and preparing a GitHub repository. Stay tuned for more updates!
 
+## Anatomy of a Quote. Denaturalizing an Omnipresent Professional Practice.
 
-## Mediated Voices
-
-In my dissertation, I explore the circulation and mainstreaming of political discourse in French and Italian legacy media looking at how journalists quote politicians' statements in their articles. 
-I am currently working on a paper where I explore to what extent we can explain quote volume trends observed in French national newspapers for different party families as a function of these parties' electoral trajectories and presence in French political institutions. 
-Stay tuned for more updates!
+In my dissertation, I explore how journalists include political discourse in news narratives through the act of quoting political actors - put otherwise, how political discourse structures news narratives. I combine large-scale computational analysis of over 2 million quotes of politicians extracted from French newspapers (1995-2025) with 35 interviews with political journalists to draw a historical portrait of quoting practices in French legacy journalism and to analyze the stakes of quotation in a changing media and political environment. 
+I am currently working on a paper where I analyze how quote patterns in French national newspapers for different party families evolve as a function of these parties' electoral trajectories and presence in French political institutions.
 
 <div style="height: 70px;"></div>

@@ -21,11 +21,11 @@ Check out my [Publications](https://emmabonuttidagostini.github.io/publications)
 
 ## News
 
+🌟 During the 2026/2027 academic year, I'll be Co-Coordinator of the CSS team at CREST, alongside the fourth year of my PhD. Excited to take on a more active role in our vibrant community!
+
 🌆 I have just completed a research stay at the Incite Institute, Columbia University, as an [Alliance International Exchange Scholar](https://alliance.columbia.edu/alliance-call-doctoral-mobility). Thanks to Peter Bearman, to the Alliance team, and to the Incite community for this wonderful experience!
 
-📚 If you read French, you can check out my review of the book *"Un journalisme en ligne mondialisé : socio-histoire comparative"* by Florence Le Cam and Fábio Henrique Pereira, on the new issue of *[Réseaux](https://shs.cairn.info/revue-reseaux-2025-4-page-435?lang=fr)*.
-
-🌟 My first academic paper has been published on *[Journalism]([https://journals.sagepub.com/home/jou](https://journals.sagepub.com/doi/10.1177/14648849251361076))* !
+📚 If you read French, you can check out my review of the book *"Un journalisme en ligne mondialisé : socio-histoire comparative"* by Florence Le Cam and Fábio Henrique Pereira, published in *[Réseaux](https://shs.cairn.info/revue-reseaux-2025-4-page-435?lang=fr)*.
 
 
 

@@ -21,7 +21,7 @@ Check out my [Publications](https://emmabonuttidagostini.github.io/publications)
 
 ## News
 
-📚 Preprint of my paper *"Who Speaks In The News? Measuring Voice Through Automated Quote Extraction"*, co-authored with Etienne Ollion and Guilhem Sicard, is now available on [OSF](https://osf.io/preprints/socarxiv/5zpfb_v1).
+📚 A preprint of my paper *"Who Speaks In The News? Measuring Voice Through Automated Quote Extraction"*, co-authored with Etienne Ollion and Guilhem Sicard, is now available on [OSF](https://osf.io/preprints/socarxiv/5zpfb_v1).
 
 🌟 During the 2026/2027 academic year, I'll be Co-Coordinator of the CSS team at CREST, alongside the fourth year of my PhD. Excited to take on a more active role in our vibrant community!
 

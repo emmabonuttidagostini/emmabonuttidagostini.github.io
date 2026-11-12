@@ -21,11 +21,12 @@ Check out my [Publications](https://emmabonuttidagostini.github.io/publications)
 
 ## News
 
+📚 Preprint of my paper *"Who Speaks In The News? Measuring Voice Through Automated Quote Extraction"*, co-authored with Etienne Ollion and Guilhem Sicard, is now available on [OSF](https://osf.io/preprints/socarxiv/5zpfb_v1).
+
 🌟 During the 2026/2027 academic year, I'll be Co-Coordinator of the CSS team at CREST, alongside the fourth year of my PhD. Excited to take on a more active role in our vibrant community!
 
 🌆 I have just completed a research stay at the Incite Institute, Columbia University, as an [Alliance International Exchange Scholar](https://alliance.columbia.edu/alliance-call-doctoral-mobility). Thanks to Peter Bearman, to the Alliance team, and to the Incite community for this wonderful experience!
 
-📚 If you read French, you can check out my review of the book *"Un journalisme en ligne mondialisé : socio-histoire comparative"* by Florence Le Cam and Fábio Henrique Pereira, published in *[Réseaux](https://shs.cairn.info/revue-reseaux-2025-4-page-435?lang=fr)*.
 
 
 
